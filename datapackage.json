@@ -2,26 +2,26 @@
     "profile": "tabular-data-package",
     "resources": [
         {
-            "path": "data\\lifeExpectancy.csv",
+            "path": "data\\lifeExpectancy-final.csv",
             "profile": "tabular-data-resource",
-            "name": "lifeExpectancy",
+            "name": "lifeExpectancy-final",
             "format": "csv",
             "mediatype": "text/csv",
             "encoding": "utf-8",
             "schema": {
                 "fields": [
                     {
-                        "name": "region",
+                        "name": "Region",
                         "type": "string",
                         "format": "default"
                     },
                     {
-                        "name": "age",
+                        "name": "Value",
                         "type": "number",
                         "format": "default"
                     },
                     {
-                        "name": "year",
+                        "name": "Year",
                         "type": "integer",
                         "format": "default"
                     }

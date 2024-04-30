@@ -1,4 +1,4 @@
-region,age,year
+Region,Value,Year
 Abai,73.8,2022
 Akmola,73.48,2022
 Aktobe,74.85,2022
@@ -13,7 +13,7 @@ Kyzylorda,74.21,2022
 Mangistau,75.83,2022
 Pavlodar,72.9,2022
 Soltustik Kazakhstan,72.27,2022
-Turkistan,75.04,2022
+Turkistan*,75.04,2022
 Ulytau,71.44,2022
 Shygys Kazakhstan,72.37,2022
 Astana city,77.3,2022
